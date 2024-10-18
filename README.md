@@ -1,42 +1,23 @@
-# WordSoup - Your Ultimate Word Generator for Fun and Games
+# Tap a Log - Easy to use reminders for every day tasks
 
-## Unleash the Power of Words with WordSoup!
-
-![WordSoup Logo](https://github.com/wongleo7/wordsoup-page/assets/8765382/6c09daa1-bb97-4cf6-96e7-b09daeed0344)
-
+<img width="131" alt="Screenshot 2024-10-17 at 9 06 42 PM" src="https://github.com/user-attachments/assets/c09763e7-e9ca-454b-ae54-307e35cbf695">
 
 ### Overview
 
-Step into a world of endless creativity and excitement with WordSoup, the ultimate word generator designed to elevate your game nights, parties, and gatherings to a whole new level!
-
-### Key Features:
-
-- **Limitless Inspiration:** Never run out of words for your favorite games like charades, Pictionary, and more! WordSoup serves up an extensive and diverse collection of words to keep the fun going.
-
-- **Customizable Categories:** Tailor your experience by choosing from a wide array of categories. Whether you're into movies, animals, or just want a mix of everything, WordSoup has got you covered!
-
-- **Dynamic Difficulty Levels:** From beginner to expert, WordSoup adapts to your group's skill level. Challenge your friends and family with words that suit everyone's expertise.
-
-- **Offline Mode:** No internet? No problem! WordSoup is available offline, ensuring that the fun never stops, even in areas with a weak or nonexistent internet connection.
-
-- **Intuitive User Interface:** Say goodbye to complicated setups. WordSoup is designed with a user-friendly interface, making it easy for anyone to dive into the excitement right away.
-
-- **Continuous Updates:** Our team is committed to delivering fresh content regularly. Expect new categories, themed word packs, and exciting updates to keep WordSoup feeling new and exciting every time you use it.
+Welcome to Tap n Log, your simple solution for tracking time between tasks and actions. Whether you’re logging workouts, keeping track of daily habits, or marking important events, Tap n Log helps you instantly know how long it’s been since your last action. With seamless iPhone Shortcuts and AppIntent integration, logging and tracking time has never been easier or more efficient. Stay organized, stay on track, and let Tap n Log do the work for you!
 
 ### How to Get Started:
 
-1. **Download WordSoup:** Head to your app store and download WordSoup for free.
+1. **Download Tap a Log:** Head to the Apple App Store and download Tap a Log for free.
 
-2. **Select Your Categories:** Choose from a variety of categories to tailor the word selection to your preferences.
+2. **Create your Journals:** Click 'Enter Name' on the top left to start. Enter a name and start logging!
 
-3. **Start the Fun:** Gather your friends, hit the "Generate" button, and let WordSoup spark the laughter, creativity, and unforgettable moments.
+3. **Create Shortcuts:** Go to your shortcuts app on your phone and add a shortcut, then integrate it with Automation! Buy nifty NFC Tags like this https://amzn.to/3YdgR5G (affiliate link) and set it up to check in when you do your task!
 
 ### Connect with Us:
 
 Follow us on instagram @wordsoup.app
 
-### Download WordSoup Now and Let the Words Begin!
+### Download Tag a Log Now and start tapping!
 
-[Download on the App Store](link-to-app-store) | [Get it on Google Play](link-to-google-play)
-
-*Note: WordSoup is available for both iOS and Android devices.*
+[Download on the App Store](link-to-app-store) 
