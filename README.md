@@ -20,6 +20,6 @@ Follow us on instagram @wordsoup.app
 
 ### Download Tag a Log Now and start tapping!
 
-[Download on the App Store](link-to-app-store) 
+[Download on the App Store](https://apps.apple.com/us/app/tap-n-log/id6737019699) 
 
 
