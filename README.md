@@ -21,3 +21,5 @@ Follow us on instagram @wordsoup.app
 ### Download Tag a Log Now and start tapping!
 
 [Download on the App Store](link-to-app-store) 
+
+
